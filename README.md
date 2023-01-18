@@ -15,7 +15,7 @@ type Me struct{
 
 func main() {
   me := &Me{
-    Email: "3rsh1wys@gmail.com",
+    Email: "*****",
     Job: "Undergraduate",
     Code: "Python,PHP,Go,Java ...",
     Blog: "https://www.3rsh1.cool",
